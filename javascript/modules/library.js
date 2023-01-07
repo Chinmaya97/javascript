@@ -1,0 +1,1 @@
+export let message = "Es6 modules"

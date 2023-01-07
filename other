@@ -1,0 +1,213 @@
+HTML/HTML5       >>>> Raw Structure
+CSS/css3         >>>> Designing (look & Feel)
+BootStarp3/4/5   >>>> Responsive (Fit on every screen)
+JavaScript       >>>> Dynamic
+///////////////////////////////
+
+> DataTypes
+> Variables
+> alert console prompt
+> Operations
+> String literals
+> Math
+> let, const
+> String Operations
+> localStorage
+> sessionStorage
+> cookies
+> condition
+> if else
+> ternary Operations
+> Date
+> switch
+> array
+> loops
+> Functions
+> Rest
+> spread
+> Es6
+    > maps,filter
+> regex
+> Closures
+> Hoisting
+> destructuring
+> JSON
+> object 
+> Es6
+    > Transpile
+    > import export
+> package.JSON
+> npm
+> this
+> Es6
+    > classes
+> Prototypes
+> DoM
+> Calc
+> Form validation
+> Event
+> dummyAPi jsonserver 
+> dark/light mode
+> screen
+> set interval
+> set timeout
+> currenyConvertor
+> promis
+> async await
+> debouncing
+> Progress bar
+> Coupon popup
+> Geolocation
+> Call/Apply
+> Dynamic DropDown
+> sets
+> Basic Jquery
+> Weather application
+> ajax
+> DataTables
+> fabonicci
+> factorial
+> palindrome
+> tictactogame
+> github 
+
+
+///////
+DOCTYPE > document type
+html > main tag of page
+head > Contains all the link (Css, JavaScript)
+body > All the content of the page that is visible to user
+
+
+///////
+BlockLevel
+> Always Start from new Line
+> It will cover the whole width of the screen
+> p div section
+
+Inline Element
+> Start in the same line where first ends
+> only cover the required with
+> span a img
+
+
+href = hyper reffernce
+src = source
+rel = relation
+
+
+>>>>>>>>>>>>Task<<<<<<<<<<<<<
+Profile Website
+
+Your name
+Your Image
+Something about you
+Skills
+Map
+
+
+
+
+
+
+Inline
+StyleTag
+styleSheet
+
+Inline > StyleTag >styleSheet
+
+inline
+{
+    color:red,
+    font-size:40px;
+}
+
+styleTag
+{
+    color:orange,
+    text-align:center;
+    font-weight:bold;
+}
+
+stylesheet
+{
+    font-size:30px;
+    border:2px solid red
+}
+
+{
+   color:red;
+   font-size:40px;
+   font-weight:bold;
+   text-align:center;
+   border:2px solid red;
+}
+
+//////
+Tag Name  > h1 , p , div
+className 
+> to target multiple Element with same property
+> .
+Id
+> to target particular element
+> #
+
+
+solid
+dotted
+dashed
+double
+groove
+
+https://imgbb.com/
+
+
+position: absolute;
+position: relative;
+
+//Bootstrap 3
+lg > 1200px
+md > 992px
+sm > 768px
+xs < 768px
+
+//Bootstrap4
+col- < 576px
+sm  > 576px
+md > 768px
+lg > 992px
+xl > 1200px
+
+//Bootstrap5
+col- < 576px
+sm  > 576px
+md > 768px
+lg > 992px
+xl > 1200px
+xxl > 1400px
+
+
+/////package.json////
+> Entry point to the app
+> Contains MetaData(name,version,description)
+> script(start,build)
+> all the package we are using in app
+
+///////Step to generate package.json/////
+**NodeJs must be installed in laptop
+> go inside the folder using cmd
+> npm init -y
+
+///////Step to install package/////
+**NodeJs must be installed in laptop
+> go inside the folder using cmd
+> npm i packagename
+
+npm i @babel/core @babel/preset-env @babel/register
+
+////////////
+npx json-server --watch data.json --port 7600
+
+
+https://github.com/Aakashdeveloper/JavaScript-Interview-Question
+Footer

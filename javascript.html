@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<!-- saved from url=(0081)file:///C:/Users/Chinmaya%20Kumar%20Nayak/Desktop/javascript/javascript/demo.html -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>javascript</title>
+    
+    <script>
+    let dbQuery = {
+    find:(table)=>{return `Select * from ${table}`},
+    insert:(table,data)=>{return `insert into ${table} name,city values (${data.name},${data.city})`}
+    
+}
+dbQuery.find('User')
+'Select * from User'
+dbQuery.insert('Students',{name:'John',city:'Keev'})
+
+
+      
+    </script>
+</head>
+<body>
+    
+
+</body></html>
